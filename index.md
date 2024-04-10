@@ -34,7 +34,9 @@ public class HelloWorld {
 - [ ] Graduate university
 
 ### Dogs  
-> "Dog is man's best friend" - someone  
+> "Dog is man's best friend" - someone
+
+
 *So, here's my Chocolate Lab.* 
 ![chocolate-lab](photos/chocolate-lab.jpg)  
 
