@@ -14,6 +14,8 @@ Hello! I'm Henry, a UCSD transfer CS major.
 - Python
 - C++
 
+[Favorite language](https://github.com/hc225/user-page/blob/vscode-ui/README.md)
+
 **Some code**  
 ```
 public class HelloWorld {
@@ -22,11 +24,6 @@ public class HelloWorld {
     }
 }
 ```
-### Projects
-
-1. [Project 1](URL to Project 1) - A brief description
-2. [Project 2](URL to Project 2) - A brief description
-3. [Project 3](URL to Project 3) - A brief description
 
 ### Tasks
 - [x] Graduate middle school
